@@ -1,0 +1,7 @@
+{:deps {
+        com.itextpdf/kernel {:mvn/version "8.0.0"}
+        com.itextpdf/layout {:mvn/version "8.0.0"}
+        com.itextpdf/barcodes {:mvn/version "8.0.0"}
+        org.clojure/data.csv {:mvn/version "1.0.1"}
+}
+ }

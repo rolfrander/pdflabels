@@ -1,0 +1,6 @@
+test.pdf
+.calva/
+.clj-kondo/
+.lsp/
+.cpcache/
+.nrepl-port
